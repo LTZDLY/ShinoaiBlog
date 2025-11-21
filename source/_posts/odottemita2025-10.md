@@ -5,7 +5,7 @@ categories:
 tags:
   - 宅舞部
   - 动漫协会
-cover: /img/odottemita2025-10/nimo2.jpg
+cover: /img/odottemita2025-10/nimo2.jepg
 date: 2025-10-11 01:15:22
 ---
 
@@ -76,6 +76,75 @@ date: 2025-10-11 01:15:22
       <div class="creator">
         <a href="https://space.bilibili.com/1408315">@一个Au子</a>
         <a href="https://space.bilibili.com/424099360">@亜羽Awa</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/sage2.jpeg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1W6WZzyEwE" target="_blank">
+        【伊波雷2025生贺】青と夏/青与夏 short ver. 【踊ってみた】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/73488798">@噻叽saGe</a>
+        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/caicaizi1.jpeg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1hWspzaEod" target="_blank">
+        【雪菜包】小小的我 | ちっちゃな私
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/475353920">@水野菜菜子</a>
+        <a href="https://space.bilibili.com/24825081">@雪樱Sakura_</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/yingluo1.jpeg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1HTspz5EG1" target="_blank">
+        【出道一周年作】请注视着我！更多！
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/91701358">@长不高的影落sama</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/nimo3.jpeg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1gGsZzoEvj" target="_blank">
+        【HB to 爱娃】僵尸 / ゾンビ (Giga Waha Remix)【nimo x 三三】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
+        <a href="https://space.bilibili.com/120136796">@三三不铲铲_</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/rouyi1.jpeg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1rSsmzDEdP" target="_blank">
+        【HB to Evalia】僵尸 / ゾンビ (Giga Waha Remix)【Royii x 三三】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/6969045">@三三_Anbra</a>
+        <a href="https://space.bilibili.com/324584">@-Royii-</a>
       </div>
     </div>
   </div>
@@ -175,5 +244,3 @@ date: 2025-10-11 01:15:22
     }
   }
 </style>
-
-> 持续更新中...
