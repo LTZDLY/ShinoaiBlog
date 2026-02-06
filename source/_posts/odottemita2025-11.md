@@ -14,7 +14,7 @@ date: 2025-11-21 23:14:22
 <div class="monthly-report-container">
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-11/xiaolan1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-11/1b1bb8e0039b963b7fc19e1054780c8a50ba8f52.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1hQ1cBiEcU" target="_blank">
@@ -27,7 +27,7 @@ date: 2025-11-21 23:14:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-11/llilico1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-11/dee5294ef23779d6f1df6f12bf40a8d55f3336d8.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV19p1eBeEfn" target="_blank">
@@ -40,7 +40,7 @@ date: 2025-11-21 23:14:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-11/nimo1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-11/852ed7f2f9578be5dc6c95d33253719212d2c6e6.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1CA1CBuEcV" target="_blank">
@@ -54,7 +54,7 @@ date: 2025-11-21 23:14:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-11/nimo2.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-11/54c639b6cceb17c9d494f3101dac083877935ac0.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1NikRBiEda" target="_blank">
@@ -68,7 +68,7 @@ date: 2025-11-21 23:14:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-11/beiqiang1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-11/29d2e272fb25c9330e6ab7dd7e6349500b0945a9.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1bVCRB5EPb" target="_blank">
@@ -76,6 +76,70 @@ date: 2025-11-21 23:14:22
       </a>
       <div class="creator">
         <a href="https://space.bilibili.com/36292043">@suga牌sugar</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/921b23cbeda8d56f7ab590f19fde9fad1a5c285e.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1yDUpB4EBV" target="_blank">
+        【Eatin&#x27;G】7  踊ってみた
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/111202392">@逸磊磊磊磊</a>
+        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
+        <a href="https://space.bilibili.com/471338119">@LliliCo锂离子</a>
+        <a href="https://space.bilibili.com/510055125">@特小暴雨</a>
+        <a href="https://space.bilibili.com/120136796">@三三不铲铲_</a>
+        <a href="https://space.bilibili.com/40763898">@kuroya哭了呀</a>
+        <a href="https://space.bilibili.com/6969045">@三三_Anbra</a>
+        <a href="https://space.bilibili.com/23160571">@靓丽小龙</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/d24f8d77268398eafc1cd081bd5e6c6535aa90f8.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1zYUkB6E68" target="_blank">
+        【Au子×雪樱】Kawaii Kaiwai - PiKi 试着跳了
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/1408315">@一个Au子</a>
+        <a href="https://space.bilibili.com/24825081">@雪樱Sakura_</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/02c5aacc4690a91616d2e65a5ae54d7d45b1191d.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1AZULBzEcV" target="_blank">
+        【知堇】别走（半曲ver.）【HB 2 特困咸鱼】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/3546934316894732">@-知堇-</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/89f61090ef5b5d74f578a0a634cf5b91d59cc26a.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1N2S7BUEkb" target="_blank">
+        【0=6】心灵感应 - DECO*27
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
+        <a href="https://space.bilibili.com/73488798">@噻叽saGe</a>
+        <a href="https://space.bilibili.com/111202392">@逸磊磊磊磊</a>
+        <a href="https://space.bilibili.com/363841456">@RioBluebbdb</a>
+        <a href="https://space.bilibili.com/23160571">@靓丽小龙</a>
       </div>
     </div>
   </div>
@@ -175,5 +239,3 @@ date: 2025-11-21 23:14:22
     }
   }
 </style>
-
-> 持续更新中...
