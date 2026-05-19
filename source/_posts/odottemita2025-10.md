@@ -5,7 +5,7 @@ categories:
 tags:
   - 宅舞部
   - 动漫协会
-cover: /img/odottemita2025-10/nimo2.jepg
+cover: /img/odottemita2025-10/nimo2.jpeg
 date: 2025-10-11 01:15:22
 ---
 
@@ -14,7 +14,7 @@ date: 2025-10-11 01:15:22
 <div class="monthly-report-container">
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/nimo2.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/ccec2408bcd333fa9770c916268228b996591831.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV16LxgzVE7T" target="_blank">
@@ -28,7 +28,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/sage1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/3abf28d0a2b613eefbd37d55a5f89adea9ab936c.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1y7xjzKEUs" target="_blank">
@@ -41,20 +41,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/nimo1.jpeg" alt="视频封面" />
-    </div>
-    <div class="info-area">
-      <a href="https://www.bilibili.com/video/BV1yQ4EzyEwf" target="_blank">
-        【HB to 黑糖梅】アディオス (再见)-DAZBEE【nimo】
-      </a>
-      <div class="creator">
-        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
-      </div>
-    </div>
-  </div>
-  <div class="video-item">
-    <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/sansan1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/ac9ca53a4a6a3cf12d5ce4acf42c1aca032b34d1.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1mP4Ez2EWS" target="_blank">
@@ -67,7 +54,20 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/au1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/9861fe8f3381f8e180bda13c76131724cdf1392a.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1yQ4EzyEwf" target="_blank">
+        【HB to 黑糖梅】アディオス (再见)-DAZBEE【nimo】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/22802273">@尼莫莱</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/86a85eb4a3ecc050fc5224b2b32e29d96e7a445d.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1Ad4nzSEW9" target="_blank">
@@ -81,7 +81,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/sage2.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/43ca599304ed04bb30b4e13ae7f0ce0324fa6ff6.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1W6WZzyEwE" target="_blank">
@@ -95,7 +95,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/caicaizi1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/0557b6e52dbb782b6a1761a78e7197fed0e6aa1e.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1hWspzaEod" target="_blank">
@@ -109,7 +109,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/yingluo1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/576a1320f5524aa549127d4ed07af526181416e4.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1HTspz5EG1" target="_blank">
@@ -122,7 +122,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/nimo3.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/064ffda53fdecfb281e9ca4979487496c4c74125.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1gGsZzoEvj" target="_blank">
@@ -136,7 +136,7 @@ date: 2025-10-11 01:15:22
   </div>
   <div class="video-item">
     <div class="thumbnail-area">
-      <img src="/img/odottemita2025-10/rouyi1.jpeg" alt="视频封面" />
+      <img src="/img/odottemita2025-10/dcf73e5a996a8ccc95ba5fa27c5f167c2a173216.jpg" alt="视频封面" />
     </div>
     <div class="info-area">
       <a href="https://www.bilibili.com/video/BV1rSsmzDEdP" target="_blank">
@@ -145,6 +145,22 @@ date: 2025-10-11 01:15:22
       <div class="creator">
         <a href="https://space.bilibili.com/6969045">@三三_Anbra</a>
         <a href="https://space.bilibili.com/324584">@-Royii-</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-10/9d93201712cad778c8dc123a350f8242c755d264.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1CLyeB5E3f" target="_blank">
+        【原创编舞】魔法・女仆/マジック・メイド【Cutein&#x27;G-】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/1464944">@陆醇兮</a>
+        <a href="https://space.bilibili.com/7870459">@代词词词词</a>
+        <a href="https://space.bilibili.com/3795171">@o夜梓喵o</a>
+        <a href="https://space.bilibili.com/1552390842">@Cutein_G</a>
       </div>
     </div>
   </div>

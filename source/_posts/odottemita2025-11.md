@@ -5,13 +5,26 @@ categories:
 tags:
   - 宅舞部
   - 动漫协会
-cover: /img/odottemita2025-11/xiaolan1.jpg
+cover: /img/odottemita2025-11/xiaolan1.jpeg
 date: 2025-11-21 23:14:22
 ---
 
 # 2025 年 11 月 宅舞部投稿月报
 
 <div class="monthly-report-container">
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/cbc8d38f34a9f314273adf11b672ea37227fb330.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1wAyWByETC" target="_blank">
+        【19岁生日作】再见少女 | さよならガール【晗曦】【两周年】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/485732093">@晗曦Rachid</a>
+      </div>
+    </div>
+  </div>
   <div class="video-item">
     <div class="thumbnail-area">
       <img src="/img/odottemita2025-11/1b1bb8e0039b963b7fc19e1054780c8a50ba8f52.jpg" alt="视频封面" />
@@ -35,6 +48,19 @@ date: 2025-11-21 23:14:22
       </a>
       <div class="creator">
         <a href="https://space.bilibili.com/471338119">@LliliCo锂离子</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/921282ddd6e7cfb0e9065a328dbda5f0069a2475.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1YayXB7EKB" target="_blank">
+        【醇兮】 Cherry Pop | 心动还是心痛呢...?
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/1464944">@陆醇兮</a>
       </div>
     </div>
   </div>
@@ -110,6 +136,45 @@ date: 2025-11-21 23:14:22
       <div class="creator">
         <a href="https://space.bilibili.com/1408315">@一个Au子</a>
         <a href="https://space.bilibili.com/24825081">@雪樱Sakura_</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/210be738c25f31127afe66018bab0aa4de2dac45.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1fbUQBAEHv" target="_blank">
+        月兔回旋于空中 【投稿三周年】
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/471338119">@LliliCo锂离子</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/873371302822297e95a2d8a55561db09164884d5.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1dZUDBxEyJ" target="_blank">
+        刻晴也想当小偶像💜More！Jump！More！
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/7870459">@代词词词词</a>
+      </div>
+    </div>
+  </div>
+  <div class="video-item">
+    <div class="thumbnail-area">
+      <img src="/img/odottemita2025-11/161d710689834d9a8d38e05b0d673f0cfdba0bc6.jpg" alt="视频封面" />
+    </div>
+    <div class="info-area">
+      <a href="https://www.bilibili.com/video/BV1FmUTB5EfZ" target="_blank">
+        【醇兮】花海中的 ❀ 恋之魔法 ❀ | 人越跳越多（？）的魔法
+      </a>
+      <div class="creator">
+        <a href="https://space.bilibili.com/1464944">@陆醇兮</a>
       </div>
     </div>
   </div>
